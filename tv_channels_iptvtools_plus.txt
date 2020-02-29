@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="MundodigitalFilmes_4" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_4
+https://lh3.googleusercontent.com/7a4PMXCq4JUVWdn17OKf6GBw428Rjxn2iyfMPtRZekmOB0OOTuNWLOhpHE8maDNUa0ZMu1gx12VlhVJwwf--tJ7B3ZiUzQ7Jz6BC0sx-VBXr6s7KvHRcAKkOPf9KYsERcu9oFQ1NdA=w2400
+#EXTINF:-1 tvg-name="MundodigitalFilmes_5" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_5
+http://webtvcde.com/Filmes/Dublados/Alpha.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_6" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_6
+https://lh3.googleusercontent.com/3hqHt_9deTJb543Wl6rnuMu7IH4cZmAwvwfNiuKxLiAp4_A8or_L725vWl4iAREYff9VqeVl5g=m22
+#EXTINF:-1 tvg-name="MundodigitalFilmes_7" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_7
+https://lh3.googleusercontent.com/qZLYr6rtvtUzgFlkaZz955f5KaJDzPccE6iYPSd4oQHEWq0T0BGw_aug93w6SJzhYfpI_ISCSg=m22
+#EXTINF:-1 tvg-name="MundodigitalFilmes_8" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_8
+https://lh3.googleusercontent.com/1hMRgRNTDoAtJqQtUOKeFq_l1yiaWeY8k6iNvj9lwso-rrzkSPH0DoaBZijjR_5mAZys5hcqeA=m22
+#EXTINF:-1 tvg-name="MundodigitalFilmes_10" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_10
+http://webtvcde.com/Filmes/Dublados/Viva.A.Vida.e.uma.Festa.2018.1080p.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_11" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_11
+http://webtvcde.com/Filmes/Dublados/Vingadores.Guerra.Infinita.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_12" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_12
+http://webtvcde.com/Filmes/Dublados/A.Espada.do.Imortal.2018.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_13" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_13
+http://webtvcde.com/Filmes/Classicos/Sete.Homens.e.um.Destino.2016.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_14" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_14
+http://webtvcde.com/Filmes/Dublados/Esquadrao.Suicida.Dublado.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_15" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_15
+http://webtvcde.com/Filmes/Dublados/Contagem.Regressiva.2018.1080p.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_16" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_16
+http://webtvcde.com/Filmes/Dublados/O.Protetor.2.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_17" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_17
+http://www.appfilmesdublados.com/filmes/aquaman.mp4
+#EXTINF:-1 tvg-name="MundodigitalFilmes_18" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_18
+http://webtvcde.com/Filmes/Dublados/Alvin/Alvin%20e%20os%20Esquilos.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_19" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_19
+http://webtvcde.com/Filmes/Dublados/Alvin/Alvin%20e%20os%20Esquilos%202.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_20" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_20
+http://webtvcde.com/Filmes/Dublados/Alvin/Alvin%20e%20os%20Esquilos%203.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_21" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_21
+http://webtvcde.com/Filmes/Dublados/Ant.Man.and.the.Wasp.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_22" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_22
+http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%202.mp4
+#EXTINF:-1 tvg-name="MundodigitalFilmes_23" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_23
+http://webtvcde.com/Filmes/Dublados/Big.Pai.Big.Filho.2018.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_24" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_24
+http://webtvcde.com/Filmes/Dublados/Christopher.Robin.Um.Reencontro.Inesquecivel.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_25" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_25
+http://webtvcde.com/Filmes/Dublados/Deadpool2.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_26" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_26
+http://webtvcde.com/Filmes/Dublados/Esquadrao.Suicida.Dublado.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_27" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_27
+http://webtvcde.com/Filmes/Dublados/Invocacao.do.Mal.2013.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_28" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_28
+http://webtvcde.com/Filmes/Dublados/Jumanji.Bem.Vindo.a.Selva.2018.1080p.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_29" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_29
+http://webtvcde.com/Filmes/Dublados/Pica-Pau-O.Filme.2018.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_30" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_30
+http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.Episode.I.The.Phantom.Menace.1999.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_31" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_31
+http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.Episode.II.Attack.of.the.Clones.2002.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_32" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_32
+http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.Episode.III.Revenge.of.the.Sith.2005.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_33" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_33
+http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.IV.A.New.Hope.1977.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_34" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_34
+http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.Episode.VI.Return.of.the.Jedi.1983.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_35" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_35
+http://webtvcde.com/Filmes/Dublados/Vingadores.Guerra.Infinita.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_36" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_36
+http://webtvcde.com/Filmes/Dublados/Viva.A.Vida.e.uma.Festa.2018.1080p.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_37" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_37
+http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%201.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_38" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_38
+http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%202.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_39" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_39
+http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%203.mkv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_40" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_40
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.a.Pedra.Filosofal.2001.mkv?LHMTv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_41" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_41
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.o.Prisioneiro.de.Azkaban.2004.mkv?LHMTv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_42" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_42
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.o.Calice.de.Fogo.2005.mkv?LHMTv
+#EXTINF:-1 tvg-name="MundodigitalFilmes_43" tvg-logo="https://mundodigitalbr.website/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-15.42.23.jpeg",MundodigitalFilmes_43
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.a.Ordem.da.Fenix.2007.mkv?LHMTv
